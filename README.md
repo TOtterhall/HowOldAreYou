@@ -1,3 +1,0 @@
-# HowOldAreYou
-practice
-testing
